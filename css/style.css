@@ -1,16 +1,17 @@
 body{
 	background-image:url("../taxis.png");
+	
 }
 
 #container{
 	background:grey;
 	width:50%;
 	height:25%;
-	color:white;
+	color:#ffffff;
 	margin:auto;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
-	border-radius: 10px; /* future proofing */
+	border-radius: 10px; /* future proofing *
 	-khtml-border-radius: 10px; /* for old Konqueror browsers */
 	opacity:0.4;
 	margin-top: 2%;
@@ -24,5 +25,10 @@ body{
 
 h1{
 	margin-bottom:-2%;
-	font-family: Capriola;
+	font-family: 'Capriola';
+	color:white;
+	font-size:81px;
+	-webkit-text-stroke: 1.5px black;
+
 }
+
