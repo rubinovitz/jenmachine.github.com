@@ -1,0 +1,28 @@
+body{
+	background-image:url("../taxis.png");
+}
+
+#container{
+	background:grey;
+	width:50%;
+	height:25%;
+	color:white;
+	margin:auto;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+	opacity:0.4;
+	margin-top: 2%;
+}
+
+#headings{
+	margin:auto;
+	width:50%;
+	height:25%;
+}
+
+h1{
+	margin-bottom:-2%;
+	font-family: Capriola;
+}
